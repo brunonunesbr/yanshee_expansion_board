@@ -1,0 +1,15 @@
+
+# Yanshee Expansion Board - Rev 1.0
+# Compatibilidade: Python 3.5
+
+# Comunicacao I2C
+smbus2==0.6.1
+
+# Controle dos GPIOs
+RPi.GPIO==0.6.5
+
+# Comunicacao UART (teste opcional)
+pyserial==3.2.1
+
+# Comunicacao SPI (teste opcional)
+spidev==3.2
